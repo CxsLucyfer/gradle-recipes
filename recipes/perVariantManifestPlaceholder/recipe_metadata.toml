@@ -1,7 +1,7 @@
 title = "perVariantManifestPlaceholder"
 
 description ="""
-  perVariantManifestPlaceholder recipe
+  perVariantManifestPlaceholder recipe, checking in the recipe was changed
   """
 
 [agpVersion]
